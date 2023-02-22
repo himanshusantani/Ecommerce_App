@@ -1,0 +1,33 @@
+.hero_section{
+    background-color: #ffe6f7;
+    min-height: 72vh;
+ 
+}
+.hero_section h2{
+    color: black;
+    font-size: 2.5rem;
+}
+.hero_section p{
+    color: black;
+
+}
+.section_title{
+    color: black;
+    font-weight: 600;
+}
+
+.timer{
+    background:rgb(1, 17, 108);
+    height: 300px;
+    
+}
+ .timer img{
+    width: 70% !important;
+    height: 70% !important;
+    object-fit: contain; 
+ }
+.both{
+    position: relative;
+    top: 58px;
+}
+

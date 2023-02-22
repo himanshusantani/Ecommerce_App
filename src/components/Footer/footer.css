@@ -1,0 +1,25 @@
+.footer{
+    background:rgb(1, 17, 108);
+}
+.footer ul li{
+    background:rgb(1, 17, 108);
+}
+.footer_text{
+    line-height: 30px;
+    color: rgb(255, 255, 255,0.735);
+}
+.footer_quick-links ul li a{
+    color: rgb(255, 255, 255,0.735);;
+}
+.direct ul li a {
+    color: rgb(255, 255, 255,0.735);;
+}
+.contact p{
+    color: rgb(255, 255, 255,0.735);;
+}
+.contact span{
+    color: rgb(255, 255, 255,0.735);;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.662);
+}
